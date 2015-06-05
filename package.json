@@ -1,0 +1,22 @@
+{
+  "name": "standard-formatter",
+  "main": "./lib/standard-formatter",
+  "version": "0.0.0",
+  "description": "Format file contents using JavaScript Standard Style",
+  "keywords": [
+    "javascript",
+    "standard",
+    "formatter"
+  ],
+  "activationCommands": {
+    "atom-workspace": ["standard-formatter:format"]
+  },
+  "repository": "https://github.com/stephenkubovic/atom-standard-formatter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+    "standard-format": "~1.3.6"
+  }
+}

@@ -1,0 +1,2 @@
+'atom-text-editor':
+  'ctrl-alt-f': 'standard-formatter:format'
