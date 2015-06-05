@@ -3,7 +3,7 @@
   'atom-text-editor': [
     {
       'label': 'Toggle standard-formatter'
-      'command': 'standard-formatter:toggle'
+      'command': 'standard-formatter:format'
     }
   ]
 'menu': [
@@ -13,8 +13,8 @@
       'label': 'standard-formatter'
       'submenu': [
         {
-          'label': 'Toggle'
-          'command': 'standard-formatter:toggle'
+          'label': 'Format'
+          'command': 'standard-formatter:format'
         }
       ]
     ]
