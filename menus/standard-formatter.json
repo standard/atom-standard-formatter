@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Format code",
+        "command": "standard-formatter:format"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "standard-formatter",
+          "submenu": [
+            {
+              "label": "Format",
+              "command": "standard-formatter:format"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
