@@ -14,9 +14,9 @@ Use `ctrl-alt-f` to format the current Javascript file.
 
 Automatically format your Javascript file on save by enabling the *Format On Save* package setting.  This is off by default.
 
-#### Command Pallette
+#### Menu
 
-`cmd-shift-p` and then search for `Standard Formatter: Format`
+**Packages > standard-formatter > Format**
 
 ### Formatting
 
