@@ -1,3 +1,7 @@
+## 0.5.1 - Cursor position and syntax error handling
+- Maintain cursor position after format/save
+- Catch errors thrown by transform due to syntax errors
+
 ## 0.5.0 - Format on save and Javascript instead of Coffeescript
 - **Format on save**: Added setting to enable format on save. Defaults to off.
 - **Less irony**: This package is now written in Javascript using Javascript Standard Style.
