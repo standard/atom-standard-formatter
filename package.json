@@ -1,7 +1,7 @@
 {
   "name": "standard-formatter",
   "main": "./lib/standard-formatter.js",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Format file contents using JavaScript Standard Style",
   "keywords": [
     "javascript",
