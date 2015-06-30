@@ -8,7 +8,7 @@ Atom package to format your JS using [Javascript Standard Style](https://github.
 
 #### Keybindings
 
-Use `ctrl-alt-f` to format the current Javascript file.
+Use `ctrl-alt-f` to format the current Javascript file. If a text selection is made, only the selected text will be formatted.
 
 #### Format On Save
 
