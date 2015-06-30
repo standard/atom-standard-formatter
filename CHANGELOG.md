@@ -1,3 +1,7 @@
+## 0.6.0 - Format selection
+- If a text selection is made, `ctrl-alt-f` will format the selection only. Otherwise
+`ctrl-alt-f` will format file contents as normal.
+
 ## 0.5.1 - Cursor position and syntax error handling
 - Maintain cursor position after format/save
 - Catch errors thrown by transform due to syntax errors
