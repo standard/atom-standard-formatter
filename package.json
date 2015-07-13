@@ -15,6 +15,8 @@
     "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {
+    "pkg-config": "^1.1.0",
+    "semistandard-format": "^1.4.0",
     "standard-format": "~1.3.6"
   }
 }
