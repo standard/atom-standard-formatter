@@ -1,3 +1,7 @@
+## 0.7.0 - Multiple Styles
+- Support standard and semi-standard styles using settings
+- Fix: Editor selection is ignored when formatting on save
+
 ## 0.6.0 - Format selection
 - If a text selection is made, `ctrl-alt-f` will format the selection only. Otherwise
 `ctrl-alt-f` will format file contents as normal.
