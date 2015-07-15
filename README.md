@@ -35,6 +35,12 @@ Check code style in package.json `devDependencies`. If a valid style is not foun
 
 Switch between standard and semi-standard styles. If `checkStyleDevDependencies` is `true` this setting will be ignored.
 
+#### honorPackageConfig (default: true)
+
+Don't auto-format files included in the package.json's `"ignore"` configuration for the detected style.
+
+| Note: This will use the nearest package.json
+
 ### Formatting
 
 This package uses [standard-format](https://github.com/maxogden/standard-format)
