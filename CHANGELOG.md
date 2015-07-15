@@ -1,3 +1,7 @@
+## 1.0.0 - Honor Package Settings
+- Format On Save honors any `ignore` configuration in the file's nearest package.json.
+- JSX files are supported
+
 ## 0.7.0 - Multiple Styles
 - Support standard and semi-standard styles using settings
 - Fix: Editor selection is ignored when formatting on save
