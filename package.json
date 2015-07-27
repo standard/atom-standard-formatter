@@ -20,6 +20,6 @@
     "minimatch": "^2.0.8",
     "pkg-config": "^1.1.0",
     "semistandard-format": "^1.4.0",
-    "standard-format": "~1.3.6"
+    "standard-format": "^1.6.0"
   }
 }
