@@ -17,9 +17,9 @@
   "dependencies": {
     "find-root": "^0.1.1",
     "happiness-format": "^1.0.0",
-    "minimatch": "^2.0.8",
+    "minimatch": "^2.0.10",
     "pkg-config": "^1.1.0",
-    "semistandard-format": "^1.4.0",
-    "standard-format": "^1.6.0"
+    "semistandard-format": "^1.6.5",
+    "standard-format": "^1.6.6"
   }
 }
