@@ -42,8 +42,18 @@ Don't auto-format files included in the package.json's `"ignore"` configuration 
 
 | Note: This will use the nearest package.json
 
-### Formatting
+### A note on formatting
 
-This package uses [standard-format](https://github.com/maxogden/standard-format)
-, [semistandard-format](https://github.com/ricardofbarros/semistandard-format) and [happiness-format](https://github.com/martinheidegger/hapiness-format) to handle the formatting.
-Therefore, only the rules enforced in those packages will be applied.
+This package relies on the excellent work from the following modules to perform formatting:
+
+- [standard-format](https://github.com/maxogden/standard-format)
+- [semistandard-format](https://github.com/ricardofbarros/semistandard-format)
+- [happiness-format](https://github.com/martinheidegger/hapiness-format)
+
+If parts of your Javascript are not being formatted as you'd expect, is is likely an issue with one of these modules and not this Atom package. To verify this, you can try to format your file directly using the above modules and examine the output.
+
+For example, to format `my-file.js` and output to stdout:
+```
+$ npm install -g standard-format
+$ standard-format my-file.js
+```
