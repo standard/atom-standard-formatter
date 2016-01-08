@@ -19,8 +19,8 @@
     "happiness-format": "^1.0.0",
     "minimatch": "^2.0.10",
     "pkg-config": "^1.1.0",
-    "semistandard-format": "^1.6.5",
-    "standard-format": "^1.6.6"
+    "semistandard-format": "^2.1.0",
+    "standard-format": "^2.1.0"
   },
   "devDependencies": {
     "standard": "^5.3.1"
