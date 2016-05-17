@@ -16,11 +16,11 @@
   },
   "dependencies": {
     "find-root": "^0.1.1",
-    "happiness-format": "^1.0.0",
+    "happiness-format": "^1.1.0",
     "minimatch": "^2.0.10",
     "pkg-config": "^1.1.0",
-    "semistandard-format": "^2.1.0",
-    "standard-format": "^2.1.0"
+    "semistandard-format": "^3.0.0",
+    "standard-format": "^2.1.1"
   },
   "devDependencies": {
     "standard": "^5.3.1"
