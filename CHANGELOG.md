@@ -1,3 +1,8 @@
+## 1.1.0 - Support `standard --fix`
+
+- Use `standard --fix` as the default formatter for Standard Style
+- Keep existing `standard-format` module as a formatter option
+
 ## 1.0.0 - Honor Package Settings
 - Format On Save honors any `ignore` configuration in the file's nearest package.json.
 - JSX files are supported
