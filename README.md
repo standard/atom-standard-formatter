@@ -32,9 +32,9 @@ Check code style in package.json `devDependencies`. If a valid style is not foun
 
 | Note: This will use the nearest package.json
 
-#### formatter (default: standard)
+#### style (default: standard)
 
-Choose the formatter module you want to use. If `checkStyleDevDependencies` is `true` this setting will be ignored.
+Choose the style formatter module you want to use. If `checkStyleDevDependencies` is `true` this setting will be ignored.
 
 * [standard](https://github.com/feross/standard) - equivalent to running `standard --fix`
 * [standard-format](https://github.com/maxogden/standard-format)
