@@ -32,9 +32,14 @@ Check code style in package.json `devDependencies`. If a valid style is not foun
 
 | Note: This will use the nearest package.json
 
-#### style (default: standard)
+#### formatter (default: standard)
 
-Switch between standard, semi-standard and happiness styles. If `checkStyleDevDependencies` is `true` this setting will be ignored.
+Choose the formatter module you want to use. If `checkStyleDevDependencies` is `true` this setting will be ignored.
+
+* [standard](https://github.com/feross/standard) - equivalent to running `standard --fix`
+* [standard-format](https://github.com/maxogden/standard-format)
+* [semistandard-format](https://github.com/ricardofbarros/semistandard-format)
+* [happiness-format](https://github.com/martinheidegger/hapiness-format)
 
 #### honorPackageConfig (default: true)
 
@@ -46,6 +51,7 @@ Don't auto-format files included in the package.json's `"ignore"` configuration 
 
 This package relies on the excellent work from the following modules to perform formatting:
 
+- [standard](https://github.com/feross/standard)
 - [standard-format](https://github.com/maxogden/standard-format)
 - [semistandard-format](https://github.com/ricardofbarros/semistandard-format)
 - [happiness-format](https://github.com/martinheidegger/hapiness-format)
