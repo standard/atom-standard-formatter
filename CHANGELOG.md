@@ -1,4 +1,4 @@
-## 1.1.0 - Support `standard --fix`
+## 2.2.0 - Support `standard --fix`
 
 - Use `standard --fix` as the default formatter for Standard Style
 - Keep existing `standard-format` module as a formatter option
