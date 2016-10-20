@@ -8,7 +8,15 @@
     "standard",
     "formatter"
   ],
-  "activationCommands": [],
+  "activationCommands": {
+    "atom-workspace": "standard-formatter:format"
+  },
+  "activationHooks": [
+    "language-javascript:grammar-used",
+    "language-babel:grammar-used",
+    "language-react:grammar-used",
+    "language-jsx:grammar-used"
+  ],
   "repository": "https://github.com/stephenkubovic/atom-standard-formatter",
   "license": "MIT",
   "engines": {
