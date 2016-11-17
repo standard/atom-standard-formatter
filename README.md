@@ -51,7 +51,7 @@ Don't auto-format files included in the package.json's `"ignore"` configuration 
 
 This package relies on the excellent work from the following modules to perform formatting:
 
-- [standard](https://github.com/feross/standard)
+- [standard](https://github.com/feross/standard), with support for `babel-eslint`, `esprima` and `esprima-fb` custom parsers.
 - [standard-format](https://github.com/maxogden/standard-format)
 - [semistandard-format](https://github.com/ricardofbarros/semistandard-format)
 - [happiness-format](https://github.com/martinheidegger/hapiness-format)
