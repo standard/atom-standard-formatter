@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "babel-eslint": "^7.1.0",
+    "eslint-plugin-flowtype": "^2.25.0",
     "find-root": "^0.1.1",
     "happiness-format": "^1.1.0",
     "loophole": "^1.1.0",
