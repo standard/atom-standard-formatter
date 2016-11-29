@@ -23,7 +23,7 @@
     "minimatch": "^2.0.10",
     "pkg-config": "^1.1.0",
     "semistandard-format": "^3.0.0",
-    "standard": "^8.5.0",
+    "standard": "^8.6.0",
     "standard-format": "^2.2.3"
   },
   "devDependencies": {}
