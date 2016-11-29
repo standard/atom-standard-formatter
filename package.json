@@ -15,13 +15,15 @@
     "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {
+    "babel-eslint": "^7.1.0",
+    "eslint-plugin-flowtype": "^2.25.0",
     "find-root": "^0.1.1",
     "happiness-format": "^1.1.0",
     "loophole": "^1.1.0",
     "minimatch": "^2.0.10",
     "pkg-config": "^1.1.0",
     "semistandard-format": "^3.0.0",
-    "standard": "^8.2.0",
+    "standard": "^8.6.0",
     "standard-format": "^2.2.3"
   },
   "devDependencies": {}
