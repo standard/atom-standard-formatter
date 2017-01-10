@@ -38,6 +38,7 @@ Choose the style formatter module you want to use. If `checkStyleDevDependencies
 
 * [standard](https://github.com/feross/standard) - equivalent to running `standard --fix`
 * [standard-format](https://github.com/maxogden/standard-format)
+* [semi-standard](https://github.com/Flet/semistandard) - equivalent to running `semistandard --fix`
 * [semistandard-format](https://github.com/ricardofbarros/semistandard-format)
 * [happiness-format](https://github.com/martinheidegger/hapiness-format)
 
@@ -53,6 +54,7 @@ This package relies on the excellent work from the following modules to perform 
 
 - [standard](https://github.com/feross/standard)
 - [standard-format](https://github.com/maxogden/standard-format)
+- [semi-standard](https://github.com/Flet/semistandard)
 - [semistandard-format](https://github.com/ricardofbarros/semistandard-format)
 - [happiness-format](https://github.com/martinheidegger/hapiness-format)
 
