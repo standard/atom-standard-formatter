@@ -7,7 +7,7 @@
       },
       {
         "label": "Toggle Format on Save",
-        "command": "standard-formatter:toggleFormatOnSave"
+        "command": "standard-formatter:toggle-format-on-save"
       }
     ]
   },
@@ -24,7 +24,7 @@
             },
             {
               "label": "Toggle Format on Save",
-              "command": "standard-formatter:toggleFormatOnSave"
+              "command": "standard-formatter:toggle-format-on-save"
             }
           ]
         }
