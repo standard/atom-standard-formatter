@@ -1,5 +1,6 @@
 {
   "atom-text-editor": {
-    "ctrl-alt-f": "standard-formatter:format"
+    "ctrl-alt-f": "standard-formatter:format",
+    "ctrl-alt-shift-f": "standard-formatter:toggleFormatOnSave"
   }
 }

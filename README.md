@@ -12,6 +12,8 @@ or [Happiness Style](https://github.com/jedwatson/happiness).
 
 Use `ctrl-alt-f` to format the current Javascript file. If a text selection is made, only the selected text will be formatted.
 
+Use `ctrl-alt-shift-f` to toggle automatic formatting when you save a file.
+
 #### Format On Save
 
 Automatically format your Javascript file on save by enabling the *Format On Save* package setting.  This is off by default.
