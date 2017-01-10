@@ -20,6 +20,7 @@
     "loophole": "^1.1.0",
     "minimatch": "^2.0.10",
     "pkg-config": "^1.1.0",
+    "semistandard": "^9.2.1",
     "semistandard-format": "^3.0.0",
     "standard": "^8.2.0",
     "standard-format": "^2.2.3"
