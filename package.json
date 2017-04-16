@@ -1,7 +1,7 @@
 {
   "name": "standard-formatter",
   "main": "./lib/standard-formatter.js",
-  "version": "2.8.0",
+  "version": "2.9.0",
   "description": "Format file contents using JavaScript Standard Style",
   "keywords": [
     "javascript",
@@ -15,15 +15,16 @@
     "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {
-    "find-root": "^0.1.1",
+    "find-root": "^1.0.0",
     "happiness-format": "^1.1.0",
     "loophole": "^1.1.0",
-    "minimatch": "^2.0.10",
-    "pkg-config": "^1.1.0",
-    "semistandard": "^9.2.1",
+    "minimatch": "^3.0.3",
+    "pkg-config": "^1.1.1",
+    "semistandard": "^10.0.0",
     "semistandard-format": "^3.0.0",
-    "standard": "^8.2.0",
-    "standard-format": "^2.2.3"
+    "standard": "^10.0.2",
+    "standard-flow": "^1.0.0",
+    "standard-format": "^2.2.4"
   },
   "devDependencies": {}
 }
