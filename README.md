@@ -1,6 +1,7 @@
 # atom-standard-formatter
 
 Atom package to format your Javascript using [Standard Style](https://github.com/feross/standard)
+, [Standard Style with FlowType](https://github.com/Gozala/standard-flow)
 , [Semi-Standard Style](https://github.com/Flet/semistandard)
 or [Happiness Style](https://github.com/jedwatson/happiness).
 
@@ -37,6 +38,7 @@ Check code style in package.json `devDependencies`. If a valid style is not foun
 Choose the style formatter module you want to use. If `checkStyleDevDependencies` is `true` this setting will be ignored.
 
 * [standard](https://github.com/feross/standard) - equivalent to running `standard --fix`
+* [standard-flow](https://github.com/Gozala/standard-flowt)
 * [standard-format](https://github.com/maxogden/standard-format)
 * [semi-standard](https://github.com/Flet/semistandard) - equivalent to running `semistandard --fix`
 * [semistandard-format](https://github.com/ricardofbarros/semistandard-format)
@@ -53,6 +55,7 @@ Don't auto-format files included in the package.json's `"ignore"` configuration 
 This package relies on the excellent work from the following modules to perform formatting:
 
 - [standard](https://github.com/feross/standard)
+- [standard-flow](https://github.com/Gozala/standard-flow)
 - [standard-format](https://github.com/maxogden/standard-format)
 - [semi-standard](https://github.com/Flet/semistandard)
 - [semistandard-format](https://github.com/ricardofbarros/semistandard-format)
