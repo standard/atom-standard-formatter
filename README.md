@@ -1,5 +1,7 @@
 # atom-standard-formatter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/standard/atom-standard-formatter.svg)](https://greenkeeper.io/)
+
 Atom package to format your Javascript using [Standard Style](https://github.com/feross/standard)
 , [Semi-Standard Style](https://github.com/Flet/semistandard)
 or [Happiness Style](https://github.com/jedwatson/happiness).
