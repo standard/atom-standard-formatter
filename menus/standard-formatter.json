@@ -4,6 +4,10 @@
       {
         "label": "Standard Format Code",
         "command": "standard-formatter:format"
+      },
+      {
+        "label": "Toggle Format on Save",
+        "command": "standard-formatter:toggle-format-on-save"
       }
     ]
   },
@@ -17,6 +21,10 @@
             {
               "label": "Format",
               "command": "standard-formatter:format"
+            },
+            {
+              "label": "Toggle Format on Save",
+              "command": "standard-formatter:toggle-format-on-save"
             }
           ]
         }
