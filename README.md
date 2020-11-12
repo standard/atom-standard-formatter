@@ -65,3 +65,4 @@ For example, to format `my-file.js` and output to stdout:
 $ npm install -g standard-format
 $ standard-format my-file.js
 ```
+
